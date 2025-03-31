@@ -10,7 +10,7 @@ This project is a web-based platform designed for students in grades 8, 9, and 1
 4) Interactive UI: A simple, user-friendly interface designed to keep the feedback process intuitive and engaging.
 
 ## Technologies Used
-1) Frontend: HTML, CSS, JavaScript (React or Angular)
+1) Frontend: HTML, CSS, JavaScript (React)
 2) Backend: Node.js, Express
 3) Database: MongoDB or MySQL
 4) Authentication: JWT or OAuth
